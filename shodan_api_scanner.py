@@ -17,10 +17,3 @@ try:
         print('Ports Services: {}'.format(available_ports[current_port]))
 except shodan.APIError as e:
     print('Error: {}'.format(e))
-
-
-
-
-
-
-
