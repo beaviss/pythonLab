@@ -1,5 +1,4 @@
 import requests
-# import json
 
 SHODAN_API_KEY = str(input('Input your Shodan API key: '))
 # host_ip = str(input('Input interesting host IP: '))
